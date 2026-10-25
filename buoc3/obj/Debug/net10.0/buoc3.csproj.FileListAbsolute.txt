@@ -1,0 +1,14 @@
+C:\Users\TRUNG DUY\baithuchanh4\buoc3\bin\Debug\net10.0\buoc3.exe
+C:\Users\TRUNG DUY\baithuchanh4\buoc3\bin\Debug\net10.0\buoc3.deps.json
+C:\Users\TRUNG DUY\baithuchanh4\buoc3\bin\Debug\net10.0\buoc3.runtimeconfig.json
+C:\Users\TRUNG DUY\baithuchanh4\buoc3\bin\Debug\net10.0\buoc3.dll
+C:\Users\TRUNG DUY\baithuchanh4\buoc3\bin\Debug\net10.0\buoc3.pdb
+C:\Users\TRUNG DUY\baithuchanh4\buoc3\obj\Debug\net10.0\buoc3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRUNG DUY\baithuchanh4\buoc3\obj\Debug\net10.0\buoc3.AssemblyInfoInputs.cache
+C:\Users\TRUNG DUY\baithuchanh4\buoc3\obj\Debug\net10.0\buoc3.AssemblyInfo.cs
+C:\Users\TRUNG DUY\baithuchanh4\buoc3\obj\Debug\net10.0\buoc3.csproj.CoreCompileInputs.cache
+C:\Users\TRUNG DUY\baithuchanh4\buoc3\obj\Debug\net10.0\buoc3.dll
+C:\Users\TRUNG DUY\baithuchanh4\buoc3\obj\Debug\net10.0\refint\buoc3.dll
+C:\Users\TRUNG DUY\baithuchanh4\buoc3\obj\Debug\net10.0\buoc3.pdb
+C:\Users\TRUNG DUY\baithuchanh4\buoc3\obj\Debug\net10.0\buoc3.genruntimeconfig.cache
+C:\Users\TRUNG DUY\baithuchanh4\buoc3\obj\Debug\net10.0\ref\buoc3.dll

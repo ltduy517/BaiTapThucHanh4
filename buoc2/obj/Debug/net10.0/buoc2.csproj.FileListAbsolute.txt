@@ -1,0 +1,14 @@
+C:\Users\TRUNG DUY\baithuchanh4\buoc2\bin\Debug\net10.0\buoc2.exe
+C:\Users\TRUNG DUY\baithuchanh4\buoc2\bin\Debug\net10.0\buoc2.deps.json
+C:\Users\TRUNG DUY\baithuchanh4\buoc2\bin\Debug\net10.0\buoc2.runtimeconfig.json
+C:\Users\TRUNG DUY\baithuchanh4\buoc2\bin\Debug\net10.0\buoc2.dll
+C:\Users\TRUNG DUY\baithuchanh4\buoc2\bin\Debug\net10.0\buoc2.pdb
+C:\Users\TRUNG DUY\baithuchanh4\buoc2\obj\Debug\net10.0\buoc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRUNG DUY\baithuchanh4\buoc2\obj\Debug\net10.0\buoc2.AssemblyInfoInputs.cache
+C:\Users\TRUNG DUY\baithuchanh4\buoc2\obj\Debug\net10.0\buoc2.AssemblyInfo.cs
+C:\Users\TRUNG DUY\baithuchanh4\buoc2\obj\Debug\net10.0\buoc2.csproj.CoreCompileInputs.cache
+C:\Users\TRUNG DUY\baithuchanh4\buoc2\obj\Debug\net10.0\buoc2.dll
+C:\Users\TRUNG DUY\baithuchanh4\buoc2\obj\Debug\net10.0\refint\buoc2.dll
+C:\Users\TRUNG DUY\baithuchanh4\buoc2\obj\Debug\net10.0\buoc2.pdb
+C:\Users\TRUNG DUY\baithuchanh4\buoc2\obj\Debug\net10.0\buoc2.genruntimeconfig.cache
+C:\Users\TRUNG DUY\baithuchanh4\buoc2\obj\Debug\net10.0\ref\buoc2.dll
